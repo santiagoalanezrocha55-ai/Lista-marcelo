@@ -101,88 +101,44 @@ http://181.118.158.103:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lossimpsons.png" group-title="24/7",simpson (720p)
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7_480.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reK1Q/e9a03ded2c.png" group-title="Deportes",AyM Sports
-http://usuarios.club/usuarios/src5/AyMSports/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Espace
+http://38.224.22.252:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reKEj/7d9a634b74.png" group-title="Peliculas",Az Cinema
-http://usuarios.club/usuarios/src5/AzCinema/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amc.png" group-title="Entretenimiento",Amc
+http://38.224.22.252:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reKF3/42c6f26362.png" group-title="Entretenimiento",Az Clic
-http://usuarios.club/usuarios/src5/AzClic/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/goldenpremier.png" group-title="Entretenimiento",Golden premier
+http://38.224.22.252:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón
-http://usuarios.club/usuarios/src1/AzCorazon/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemundo.png" group-title="Entretenimiento",Telemundo
+http://38.224.22.252:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón (Opcion 2)
-http://usuarios.club/usuarios/src2/AZCORAZON_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemundo.png" group-title="Entretenimiento",Fx (Opcion 2)
+http://38.224.22.252:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón (720p)
-http://usuarios.club/usuarios/src2/AZCORAZON_HD/demoUwD/OV0/hd.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemax.png" group-title="Entretenimiento",Cinemax (720p)
+http://38.224.22.252:8000/play/a02q/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="Entretenimiento",Az Mundo (Opcion 2)
-http://usuarios.club/usuarios/src2/AZMUNDO_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starchannel.png" group-title="Entretenimiento",starchannel (Opcion 2)
+http://38.224.22.252:8000/play/a02d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="Entretenimiento",Az Mundo (720p)
-http://usuarios.club/usuarios/src2/AZMUNDO_HD/demoUwD/OV0/hd.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinecanal.png" group-title="Entretenimiento",Cinecanal (720p)
+http://38.224.22.252:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/wcPRU/132561d945.png" group-title="Mexico",Azteca +
-http://usuarios.club/usuarios/src4/AztecaMas/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneychanel.png" group-title="Infantiles",Disneychannel
+http://38.224.22.252:8000/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13
-http://usuarios.club/usuarios/src4/Azteca13/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn (opc 2)
+http://181.78.8.199:8000/play/a0b1/14347860.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13 Op. 2
-http://usuarios.club/usuarios/src1/Azteca13_2/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn2 Op. 2
+http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch9_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7
-http://usuarios.club/usuarios/src1/Azteca7/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn3
+http://181.78.8.199:8000/play/a0b3/14347860.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7 Op. 2
-http://usuarios.club/usuarios/src4/Azteca7/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonito.png" group-title="Infantiles",cartoonito Op. 2
+http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch1_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLxU/786687775b.png" group-title="Infantiles",Baby TV
-http://usuarios.club/usuarios/src5/BabyTV/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" group-title="Musica",Bandamax
-http://usuarios.club/usuarios/src1/Bandamax/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMym/28fb4e2cc5.png" group-title="Entretenimiento",BBC Entertainment
-http://usuarios.club/usuarios/src1/BBCEntertainment/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports
-http://usuarios.club/usuarios/src5/BeinSports/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports 1
-http://usuarios.club/usuarios/src5/Deportes1/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ
-http://usuarios.club/usuarios/src5/BeinSportsN/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ HD
-http://usuarios.club/usuarios/src5/Bein/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMzt/5760bb9648.png" group-title="Noticias",Bloomberg
-http://usuarios.club/usuarios/src4/Bloomberg/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/y0Qah/26ddc7291a.png" group-title="Entretenimiento",Bob Esponja 24/7
-http://usuarios.club/usuarios/src3/BobEsponja/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang
-http://usuarios.club/usuarios/src1/Boomerang/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (Opcion 2)
-http://usuarios.club/usuarios/src2/BOOMERANG/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (720p)
-http://usuarios.club/usuarios/src2/BOOMERANG/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xh2Xv/015ef8314e.png" group-title="Entretenimiento",Caballeros del Zodiaco 24/7
-http://usuarios.club/usuarios/src3/CaballerosDelZodiaco/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png" group-title="Colombia",Cali TV
-http://usuarios.club/usuarios/src4/CaliTV/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png" group-title="Nicaragua",Canal 2 Televicentro
-http://usuarios.club/usuarios/src4/Canal2Televicentro/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tv
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports3.png" group-title="Infantiles",Fosx sports(opc2)
+http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch2_720.m3u8
