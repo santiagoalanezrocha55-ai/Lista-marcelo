@@ -184,3 +184,292 @@ http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch30_720.m3u
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxspots2.png" group-title="Deportes",Fox spotts2
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch31_720.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/8gbx94xq/FIFA.png" group-title="Nacionales", FIFA + 
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/35vzZvFk/LOGO-TS-AZ-Uy-AMA-2025-ef0ae971c4.png" group-title="Nacionales", TGO
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index_6.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="Vos HD" tvg-logo="https://canales.asplurtv.com/logo_amitel.png" group-title="Nacionales", Amitel 
+https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Bolivision SC" tvg-logo="https://i.ibb.co/PZ1ctHG6/BOLIVISIONOF.png" group-title="Nacionales", Bolivision SC
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Bolivision LP" tvg-logo="https://i.ibb.co/PZ1ctHG6/BOLIVISIONOF.png" group-title="Nacionales", Bolivision LP
+http://181.115.237.3:9560/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Bolivia Tv" tvg-logo="https://i.ibb.co/TqHk2RR6/btv-nuevo.png" group-title="Nacionales", Bolivia Tv
+http://181.115.237.3:9560/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="UNITEL HD" tvg-logo="https://canales.asplurtv.com/logo_unitel.png" group-title="Nacionales", Unitel 24/7
+https://master.tucableip.com/tvhome/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="UNITEL HD" tvg-logo="https://canales.asplurtv.com/logo_unitel.png" group-title="Nacionales", Unitel LPZ
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="UNITEL HD" tvg-logo="https://i.ibb.co/Z11npYR0/UNITELOF.png" group-title="Nacionales", Unitel SCZ
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="UNITEL HD" tvg-logo="https://i.ibb.co/Z11npYR0/UNITELOF.png" group-title="Nacionales", Unitel CBBA
+https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/8nKh5B7L/REDUNOOF.png" group-title="Nacionales", Red Uno LP
+http://181.115.237.3:9560/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/8nKh5B7L/REDUNOOF.png" group-title="Nacionales", Red Uno SCZ
+https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="RTP HD" tvg-logo="https://i.ibb.co/rKgL6DC1/Rtp.png" group-title="Nacionales", RTP
+https://rtp.noxun.net/hls720/stream3.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", Gigavision
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", Gigavision LP
+https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", Gigavision SCZ
+https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="DTV" tvg-logo="https://i.ibb.co/PHC62Xf/images.png" group-title="Nacionales", DTV HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="DTV" tvg-logo="https://i.ibb.co/M57FtWcf/DELTA-500-1.png" group-title="Nacionales", Delta
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Zuraca " tvg-logo="https://canales.asplurtv.com/logo_ztv.png" group-title="Nacionales", Zuraca TV
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Cinerama" tvg-logo="https://canales.asplurtv.com/logo_cinerama.png" group-title="Nacionales", Cinerama
+https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8?cachebust=836213
+
+#EXTINF:-1 tvg-id="44" tvg-name="Unifranz" tvg-logo="https://canales.asplurtv.com/logo_unifranz.png" group-title="Nacionales", Unifranz
+https://eu1.servers10.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="PAT" tvg-logo="https://canales.asplurtv.com/logo_pat.png" group-title="Nacionales", PAT
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="PAT" tvg-logo="https://canales.asplurtv.com/logo_pat.png" group-title="Nacionales", PAT
+https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd
+
+#EXTINF:-1 tvg-id="44" tvg-name="Cadena A" tvg-logo="https://i.ibb.co/nsWXPY3Y/CADENAHD.png" group-title="Nacionales", Cadena A
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Latina" tvg-logo="https://canales.asplurtv.com/logo_latina.png" group-title="Nacionales", Latina
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Ceacom" tvg-logo="https://canales.asplurtv.com/logo_ceacom.png" group-title="Nacionales", Ceacom
+https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="F10" tvg-logo="https://canales.asplurtv.com/logo_fdiez.png" group-title="Nacionales", F10
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="UPEA" tvg-logo="https://canales.asplurtv.com/logo_upeatv.png" group-title="Nacionales", UPEA
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="UMSA" tvg-logo="https://canales.asplurtv.com/logo_tvulpz.png" group-title="Nacionales", UMSA
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Univalle" tvg-logo="https://canales.asplurtv.com/logo_univalle.png" group-title="Nacionales", Univalle
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="CTV" tvg-logo="https://i.ibb.co/ZpR6Qck6/CTVOF.png" group-title="Nacionales", CTV
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name=" Palenque" tvg-logo="https://canales.asplurtv.com/logo_palenque.png" group-title="Nacionales", Palenque
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="PTV" tvg-logo="https://canales.asplurtv.com/logo_tvoff.png" group-title="Nacionales", TVOFF
+https://s4.tvdatta.com:3449/live/tvofflive.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="PTV" tvg-logo="https://canales.asplurtv.com/logo_ptv.png" group-title="Nacionales", PTV
+https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="SHOW" tvg-logo="https://i.ibb.co/jk44n7JH/TVSHOW.png" group-title="Nacionales", SHOW
+http://tv.istbolivia.com:1935/tvshow/tvshow/.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="NEO" tvg-logo="https://i.ibb.co/rfk7xHQr/NEOTV.png" group-title="Nacionales", NEO
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="FTV" tvg-logo="https://i.ibb.co/gb4fRLkx/FTV.png" group-title="Nacionales", FTV
+https://master.tucableip.com/ftvhd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="MEGA" tvg-logo="https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1-1536x597.png" group-title="Nacionales", MEGA
+https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/BVjLCTzN/VOSTVOF.png" group-title="Nacionales", Vos HD
+https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Estrella" tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="Nacionales", Estrella
+https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/B2VDJ5yL/SITEL.png" group-title="Nacionales", Sitel
+http://181.115.237.3:9560/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="OFF TV" tvg-logo="https://vtvcanal17.com/file/2023/12/logo-vtv.png" group-title="Nacionales", VTV 
+https://ares.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Canal TDT Multimedia" tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2025/06/cropped-cropped-logo1.png" group-title="Nacionales",Canal TDT Multimedia
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1322871957.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Canal Tele 6" tvg-logo="https://tele6.tv.bo/wp-content/uploads/2025/07/274641706_102980908995414_2209904193207960606_n-removebg-preview.png" group-title="Nacionales",Canal Tele 6
+https://59d39900ebfb8.streamlock.net:443/tele6/tele6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://lashmytv.com/assets/logo.png", Lashmy
+https://live20.bozztv.com/akamaissh101/ssh101/lashmytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://canales.asplurtv.com/logo_sigloxxi.png" group-title="Nacionales", Siglo XXI
+https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Nacionales", Mega Cine
+https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1675-294x165-FFFFFF.jpg" group-title="Nacionales", CDTV
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Imperial" tvg-logo="https://canales.asplurtv.com/logo_imperial.png" group-title="Nacionales", Imperial
+https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.ibb.co/1G87bpMB/CNN.png" group-title="Nacionales", CNN ESPAÑOL
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Nacionales", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.ibb.co/Q7jSmDxD/RTVE.png" group-title="Nacionales", RTVE
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://i.ibb.co/vxSj77t7/RTES.png" group-title="Nacionales", RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="Nacionales", HISPAN TV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="RTVE" tvg-logo="https://i.ibb.co/2Ym0YmPY/CANAL24.png" group-title="Nacionales", RTVE
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="BIO BIO" tvg-logo="https://www.biobiochile.cl/assets/img/bbtv_dm.png" group-title="Nacionales", BIO BIO
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=
+
+#EXTINF:-1 tvg-id="44" tvg-name="TeleSur" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/only-logo.png" group-title="Nacionales", TeleSur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://i.ibb.co/S7mkj78w/13.png" group-title="Nacionales", T13
+https://origin.dpsgo.com/ssai/event/3CNEz8LDSXGyWmOfV5YubQ/master.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Canal 26" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/logoApi_89a113ff9bbb5c995ba764e5eff431891742413042.png" group-title="Nacionales", Canal 26
+https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America Tv
+http://191.97.61.32:8000/play/a020/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America HD
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name=" Latina" tvg-logo="https://i.ibb.co/21P9QNBL/LATINAOF.png" group-title="Nacionales", Latina
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name=" Latina" tvg-logo="https://i.ibb.co/21P9QNBL/LATINAOF.png" group-title="Nacionales", Latina Noticias
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8?did=
+
+#EXTINF:-1 tvg-id="44" tvg-name=" Latina" tvg-logo="https://i.ibb.co/21P9QNBL/LATINAOF.png" group-title="Nacionales", Latina  Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8?did=
+
+#EXTINF:-1 tvg-id="44" tvg-name="Tv Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Nacionales", Tv Perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+
+#EXTINF:-1 tvg-id="166558" tvg-name="Azteca 7 FHD (i)" tvg-logo="https://i.ibb.co/ymRQLF3C/Logo-de-Azteca-7-2024-cropped.png" group-title="Latinos",Azteca 7 FHD 
+http://live.btv.mx:2424/stream/166558/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="311878" tvg-name="MX  | FOX ONE 1 P" tvg-logo="https://i.ibb.co/R4MwGf2K/Fox-One-2025.png" group-title="Deportes",MX  | FOX ONE 1 P
+http://live.btv.mx:2424/stream/311878/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="311110" tvg-name="TUDN USA HD P" tvg-logo="https://i.ibb.co/HLHbbC1n/TUDN-Logo.png" group-title="Eventos Del Dia",TUDN USA HD P
+http://live.btv.mx:2424/stream/311110/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="158776" tvg-name="Univision Seattle HD (i)" tvg-logo="https://i.ibb.co/PvYJTFtK/Logo-nmas.png" group-title="Estados Unidos",Univision Seattle HD 
+http://live.btv.mx:2424/stream/158776/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Nacionales", TL Novelas
+http://190.14.238.115:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://i.ibb.co/Gv43nVmp/Las-Estrellas-Logo.png" group-title="Nacionales", Las Estrellas
+https://cablered.iptvperu.tv:1936/cablered/las-estrellas_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://i.ibb.co/0p420yTM/images.png" group-title="Nacionales", Univision
+https://cablered.iptvperu.tv:1936/cablered/univision-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="TVM" tvg-logo="https://tvmusicala.com/wp-content/uploads/logo-tvm-cabecera-mayo2024.png" group-title="Nacionales",TVM
+https://tv.bitstreaming.net:3999/multi_web/play_1080.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Venus Media" tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="Nacionales",Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=a40c7ab3efd01873f783caff2234a43a1f8b49934b8abd6d15498bf57c5afd77&exp=1745809429
+
+#EXTINF:-1 tvg-id="44" tvg-name="Activa" tvg-logo="https://i.ibb.co/NgkPZcnH/ACTIVATV.png" group-title="Nacionales",Activa
+https://streamtv1.serviciospararadios.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV" tvg-logo="https://i.ibb.co/9jLkyrj/HTVOF.png" group-title="Nacionales", HTV MUSIC
+https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Musica Top" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/music_top.png" group-title="Nacionales",Musica Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Carolina TV 2" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/carolina_tv_2.png" group-title="Nacionales",Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Cadena Élite" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/cadena_elite.png" group-title="Nacionales",Cadena Élite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Portalfoxmix" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/portalfoxmix.png" group-title="Nacionales",Portalfoxmix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Retro Plus" tvg-logo="https://i.ibb.co/8tCPgpj/RETRO-PLUS.jpg" group-title="Nacionales",Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w726474263.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Retro Plus" tvg-logo="https://i.ibb.co/8tCPgpj/RETRO-PLUS.jpg" group-title="Nacionales",Retro Plus 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w389034133.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Retro Plus" tvg-logo="https://i.ibb.co/8tCPgpj/RETRO-PLUS.jpg" group-title="Nacionales",Retro Plus 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w919102853.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Karibeña" tvg-logo="https://i.ibb.co/mCgBqMsN/KARIBE-A.png" group-title="Nacionales", Karibeña
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Pequeradio TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/pequeradio_tv.png" group-title="Nacionales",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Señal Colombia" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/internacional/senal_colombia.png" group-title="Nacionales",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Voz en off" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/voice_over_radio_tv.png" group-title="Nacionales",Voz en off
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Punt3" tvg-logo="https://i.ibb.co/wN6stjMp/PUNT3.pngg" group-title="Nacionales",Punt3
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="CHV (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="Nacionales", CHV (Chile)
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="General",Next HD 
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
