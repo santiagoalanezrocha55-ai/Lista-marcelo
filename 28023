@@ -188,8 +188,8 @@ http://186.33.3.130:5000/play/a0gn/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tycsports.png" group-title="Deportes",Tyc sports (720p)
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch28_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn1 (opc2)
-http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch29_720.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn1 mex (opc2)
+http://186.33.3.130:5000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxspots.png" group-title="Deportes",Foxsports opc2
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch30_720.m3u8
