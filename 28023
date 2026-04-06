@@ -170,8 +170,20 @@ http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch19_720.m3u
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starchannel.png" group-title="Entretenimiento",starchannel opc2
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch21_720.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo.png" group-title="Entretenimiento",Hbo (Opcion 2)
+http://186.33.3.130:5000/play/a0gl/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo2.png" group-title="Entretenimiento",Hbo 2 (Opcion 2)
+http://186.33.3.130:5000/play/a0gm/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbofamily.png" group-title="Entretenimiento",Hbo Family (Opcion 2)
-http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch22_720.m3u8
+http://186.33.3.130:5000/play/a0go/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboxtreme.png" group-title="Entretenimiento",Hbo xtreme (Opcion 2)
+http://186.33.3.130:5000/play/a0gp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboplus.png" group-title="Entretenimiento",Hbo Plus (Opcion 2)
+http://186.33.3.130:5000/play/a0gn/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tycsports.png" group-title="Deportes",Tyc sports (720p)
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch28_720.m3u8
