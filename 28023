@@ -474,7 +474,29 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="General",Next HD 
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn ar
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="Deportes",Foxsports (Opcion 2)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports3.png" group-title="Deportes",Foxsports 3 (720p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports2.png" group-title="Deportes",Foxsports2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn4.png" group-title="Deportes",Espn4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn3.png" group-title="Deportes",Espn3
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="Deportes",Espn2 ar
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tycsports.png" group-title="Deportes",tyc sports (Opcion 2)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
 
 
 
