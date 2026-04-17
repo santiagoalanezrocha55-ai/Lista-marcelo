@@ -92,8 +92,8 @@ http://181.118.158.103:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="deportes",Espn2
 http://181.118.158.103:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_univalle.png" group-title="Deportes",ESPN magna
-http://streametx.app/php/proxy_magma.php?r=/proxy&url=http%3A%2F%2Ftv.m3uts.xyz%2Fstream%2Fsecure%2FAwtmKmRkZGSsZGN3YwR4ZF4lAQNhZmEsZGp3AwRmAGN2ZS84Z2Z1ZGH1AQOwZGOzZwIuKmN%2F1111.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremiun.png" group-title="Deportes",ESPN Premuin
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F408
 
 #EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Bolivia",Espn2 (Opcion 2)
 http://181.118.158.103:8000/play/a039/index.m3u8
