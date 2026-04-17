@@ -384,7 +384,7 @@ https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
 http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F35
 
 #EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America HD
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/playlist.m3u8
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F35
 
 #EXTINF:-1 tvg-id="44" tvg-name=" Latina" tvg-logo="https://i.ibb.co/21P9QNBL/LATINAOF.png" group-title="Entretenimiento", Latina
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
