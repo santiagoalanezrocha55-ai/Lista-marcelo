@@ -1621,8 +1621,8 @@ http://181.78.8.199:8000/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.co" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/78?cb=20180306141612" group-title="PELÍCULAS Y SERIES",Nickelodeon
 http://38.250.229.23:8000/play/a0tq
 
-#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/500px-NTN24_logo.svg.png" group-title="PELÍCULAS Y SERIES",NTN24
-http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/500px-NTN24_logo.svg.png" group-title="Eventos Del Dia", Liverpool vs 
+https://b2zmawnpyww.fubohd.com/disney1pl/mono.m3u8?token=abe1bfa4c3e7e80d072d94770cb9f602a88d79ac-f7-1777147541-1777129541
 
 #EXTINF:-1 tvg-id="RCN.Nuestra.Tele.co" tvg-name="RCN Nuestra Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117" group-title="PELICULAS Y SERIES",RCN Nuestra Tele
 http://190.60.49.242:4000/play/a061/index.m3u8
