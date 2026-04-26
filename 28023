@@ -18,7 +18,7 @@ https://srt.tvdatta.com/faphd/index.m3u8
 https://59d39900ebfb8.streamlock.net:443/vostv/vostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleseis.png" group-title="BOLIVIA",telefe 6
-https://59d39900ebfb8.streamlock.net:443/tele6/tele6/playlist.m3u8
+http://rlatinop.com:8880/live/Jaime.ceballos_/FwsfG5QhEyMb/521032.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_aynitv.png" group-title="Entretenimiento",AINA TV
 https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8
