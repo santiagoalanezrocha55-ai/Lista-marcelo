@@ -380,8 +380,8 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="Canal 26" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/logoApi_89a113ff9bbb5c995ba764e5eff431891742413042.png" group-title="Nacionales", Canal 26
 https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America Tv
-http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F35
+#EXTINF:-1 tvg-id="44" tvg-name=" America Tv pe" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America Tv peru
+http://rlatinop.com:8880/live/Jaime.ceballos_/FwsfG5QhEyMb/429002.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America HD
 http://streametx.app/php/proxy_magma.php?r=/proxy&url=http%3A%2F%2Ftv.m3uts.xyz%2Fstream%2Fsecure%2FBGplKmZ1KmRjAl4kBQRhZwDjYwZ0KmR3AmLmBGZ4AQIsBQAwAGR1AGDjLmRjMwV1LI8j%2F35.m3u8
