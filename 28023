@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="Eventos Del Dia",Copa libertadores 
-https://x4bnd7lq.fubohd.com/espn5/mono.m3u8?token=75714d91a7d2057d21b6d292042156908ffba02a-cf-1777520448-1777502448
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png" group-title="Eventos Del Dia",Barcelona vs uniersidad
+https://agvyby.fubohd.com/espn/mono.m3u8?token=7e2d0435c53c3dbdee214eb2713ff3e30bd477f1-90-1777524281-1777506281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png" group-title="Eventos Del Dia",estudiantes vs flamengo
+https://tyg2mnl9.fubohd.com/espn7/mono.m3u8?token=c4610e6ae459bb8f5710e9f5fa50e50b303ecf82-61-1777524396-1777506396
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png" group-title="Eventos Del Dia",cerró porteño vs palmeiras
+https://anvtcax.fubohd.com/espn2/mono.m3u8?token=3392ebd992506f735762fb326bd1e8593b38cd08-6b-1777524514-1777506514
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="26",13tv
 https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
