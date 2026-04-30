@@ -126,7 +126,7 @@ http://38.224.22.252:8000/play/a00x/index.m3u8
 http://38.224.22.252:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemax.png" group-title="Entretenimiento",Cinemax (720p)
-http://186.33.3.130:5000/play/a08g/index.m3u8
+http://38.97.240.11:8000/play/a0lg/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starchannel.png" group-title="Entretenimiento",starchannel (Opcion 2)
 http://38.224.22.252:8000/play/a02d/index.m3u8
